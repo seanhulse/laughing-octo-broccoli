@@ -29,8 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+We are trying to develop a data structure that helps people make friends. Each node in will represent a person and each person can have many friends. We want to connect people in the graph with people they have in common or potentially traits they have in common.
 
 ## Questions to answer for Exercise #2
 
