@@ -1,3 +1,4 @@
+# Friendopedia
 # X-Team 79 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
