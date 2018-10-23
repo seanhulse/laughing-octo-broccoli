@@ -19,14 +19,14 @@ Git issues.
 
 
 ## How will we communicate difficulties with a task assigned to us
-
+Ask for help from teammates and TA's if necessary.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-We will collaborate and set up times to work together to make sure everyone is on track with the assignment.
+
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+Be nice to each other. 
 
 
