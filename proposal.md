@@ -70,6 +70,7 @@ Want to Friend:     Jim
 
 
 Name each interface or class and briefly describe its function or purpose.
+Our program would have a Friends class and a Person class. The Friends class would create a graph to hold all of the people signed up to Friendopedia. The Person class would create a person with unique information about the person it represents.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
