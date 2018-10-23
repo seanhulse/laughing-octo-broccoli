@@ -44,10 +44,12 @@ Our program will output a list of possible freinds.
 
 Recommended friends in your area:
 
+```
 Name:                Bob 
 Age:                 20
 Friends in common:   Charlie
 Interests in common: Frisbee
+```
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
