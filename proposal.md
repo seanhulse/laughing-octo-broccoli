@@ -29,13 +29,13 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-We are trying to develop a data structure that helps people make friends. Each node in will represent a person and each person can have many friends. We want to connect people in the graph with people they have in common or potentially traits they have in common.
+We are trying to develop a data structure that helps people make friends. Each node will represent a person and each person can have many friends. We want to connect people in the graph with people they have in common or potentially traits they have in common.
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+   Friendopedia
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
