@@ -58,7 +58,11 @@ Name:               Bob
 Want to Friend:     Jim
 ```
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-   1. Text Menu with options to "Add Friend", "Find Friend", "Remove Friend", and "Edit Profile".
+   **Text Menu with options:**
+   1. "Add Friend"
+   2. "Find Friend"
+   3. "Remove Friend"
+   4. "Edit Profile"
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
