@@ -9,14 +9,16 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
+Try to assign an even work load per person. 
 
+Share the types work assigned (everyone will code and everyone will also work on design / implementation).
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
+Git issues.
 
 
-
-## How will will communicate difficulties with a task assigned to us
+## How will we communicate difficulties with a task assigned to us
 
 
 
