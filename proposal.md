@@ -40,7 +40,14 @@ We are trying to develop a data structure that helps people make friends. Each n
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+Our program will output a list of possible freinds. 
 
+Recommended friends in your area:
+
+Name:                Bob 
+Age:                 20
+Friends in common:   Charlie
+Interests in common: Frisbee
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
