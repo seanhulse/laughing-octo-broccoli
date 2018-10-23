@@ -2,10 +2,10 @@
 
    * What are the GitHub usernames and names of your team members?
    ```
-       * GitHub username 1: seanhulse      name 1: Sean Hulse
-       * GitHub username 2: AlecArchambault      name 2:Alec Archambault
-       * GitHub username 3: leah19e      name 3: Leah Ersoy
-       * GitHub username 4: wbauer2      name 4: William Bauer
+       * GitHub username 1: seanhulse            name 1: Sean Hulse
+       * GitHub username 2: AlecArchambault      name 2: Alec Archambault
+       * GitHub username 3: leah19e              name 3: Leah Ersoy
+       * GitHub username 4: wbauer2              name 4: William Bauer
    ```
    * When did you complete this exercise? 
    October 23rd, 2018
