@@ -19,7 +19,7 @@ Git issues.
 
 
 ## How will we communicate difficulties with a task assigned to us
-
+Ask for help from teammates and TA's if necessary.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
